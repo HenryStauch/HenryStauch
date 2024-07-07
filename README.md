@@ -1,4 +1,4 @@
-## Hi there! 
+## Hi there! I am currently learning to navigate and utilize GitHub as part of my enrollment in CS50 at Dartmouth College. 
 
 <!--
 **HenryStauch/HenryStauch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
